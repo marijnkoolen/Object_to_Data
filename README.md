@@ -5,12 +5,16 @@ Course description Object to Data
 
 ## Learning Objectives
 
-- Learn to structure digital research around a research question in the form of a recipe
-- 
+- knowledge of digital and programmatic concepts for working with data
+- insight in the relevance of data-oriented research for humanities disciplines
+- skills in structuring digital research around a research question in the form of a recipe
+-
+-
+-
 
 ## Summary
 
-S
+...
 
 ## Weekly Overview
 
