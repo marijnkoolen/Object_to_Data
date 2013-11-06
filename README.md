@@ -14,7 +14,7 @@ Course description Object to Data
 
 ## Summary
 
-...
+How can researchers of history, visual arts, literature, media, theatre or religion use data to support their research? What digital tools are at their disposal and can provide new perspectives and research questions? Following the Coding the Humanities course, this course looks at digital data sources and tools that are relevant to the humanities from a programmatic perspective. ...
 
 ## Weekly Overview
 
@@ -26,7 +26,7 @@ Course description Object to Data
 - Start working with the 7-step workflow
 - Step 0: defining your research, determining your research question
 - From research question to workflow, structuring research approach
-- Concepts: types of data (metadata, textual data, visual data, audio data), static, streaming and real-time data
+- Concepts: hypothesis, types of data (metadata, textual data, visual data, audio data), static, streaming and real-time data
 
 ### Week 2: Acquiring data
 
