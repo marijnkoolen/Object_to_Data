@@ -8,9 +8,6 @@ Course description Object to Data
 - knowledge of digital and programmatic concepts for working with data
 - insight in the relevance of data-oriented research for humanities disciplines
 - skills in structuring digital research around a research question in the form of a recipe
--
--
--
 
 ## Summary
 
