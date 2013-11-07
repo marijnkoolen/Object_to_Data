@@ -50,7 +50,6 @@ Complex data objects like texts, musical scores and images can be segmented into
 - Regular expressions for text analysis
 - Concepts: data units, segmenting `unstructured' data
 - Continue with the workflow
-- 
 
 ### Week 5: Exploring Metadata
 
