@@ -65,7 +65,7 @@ Complex data objects like texts, musical scores and images can be segmented into
 How do you choose a visual model that allows you to explore your data and discover areas of interest? How do you choose a representative visual model that supports the story that you want to tell?
 
 - Steps 4, 5 & 6: mining, representing, refining
-- Concepts: clustering, sorting, ordering, visual models, patterns
+- Concepts: clustering, sorting, ordering, visual models, patterns, trees, networks
 - Continue with the workflow
 
 ### Week 7: Interacting with Data
@@ -75,4 +75,5 @@ How do you choose a visual model that allows you to explore your data and discov
 - Concepts: ...
 - Continue with the workflow
 
+### Week 8: Presenting Data
 
