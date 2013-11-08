@@ -1,7 +1,7 @@
 Object_to_Data
 ==============
 
-Course description Object to Data
+Course description From Object to Data
 
 ## Learning Objectives
 
@@ -17,7 +17,7 @@ How can researchers of history, visual arts, literature, media, theatre or relig
 
 ### Week 1: Objects as Data Points
 
-- shifting perspective on humanities material from objects as objects to objects as data points
+- Shifting perspective on humanities material from objects as objects to objects as data points
 - Using data to tell stories
 - Introduction to 7 steps of data-oriented research. The 7 steps provide a workflow to organise your research approach in clearly defined and ordered steps, resulting in a research recipe.
 - Start working with the 7-step workflow
@@ -35,6 +35,7 @@ How can researchers of history, visual arts, literature, media, theatre or relig
 
 ### Week 3: Handling Metadata
 
+Any type of object or event can be described. Such descriptions contain data about data, also known as metadata. Metadata is relevant to all humanities disciplines, as well as for any other discipline. 
 - Steps 2 & 3 of 7: parsing and filtering
 - Filtering metadata to focus on what is relevant to your research and the story you want to tell.
 - Parsing data to create meaning
@@ -44,7 +45,7 @@ How can researchers of history, visual arts, literature, media, theatre or relig
 
 ### Week 4: Handling Raw Data
 
-Complex data objects like texts, musical scores and images can be segmented into units in many different ways. But what are the relevant units for your analysis? For instance, what are the relevant units for analysing a painting? How can we quantitatively analyse colour in images?
+Complex data objects like texts, musical scores and images can be segmented into units in many different ways. But what are the relevant units for your analysis? For instance, what are the relevant units for analysing a painting? What aspects of images can be identified and segmented into individual units of data? Can we identify objects? Individual brush strokes? 
 
 - Parsing and filtering texts and images
 - Regular expressions for text analysis
@@ -75,4 +76,14 @@ How do you choose a visual model that allows you to explore your data and discov
 - Continue with the workflow
 
 ### Week 8: Presenting Data
+
+- Concepts:
+
+
+
+### To Do
+
+- Example projects
+- Example research questions
+- Interesting Humanities problems related to each step
 
